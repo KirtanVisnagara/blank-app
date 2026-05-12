@@ -1,1 +1,16 @@
 https://60cc8791-abe9-4701-a6e0-47673cfcb6a8.eu-west-2-0.aws.cloud.qdrant.io\
+collection: pv-phase2-chunks
+
+struture of vd:{
+  "doc_id": 76,
+  "document_id": "GB-MHRA-MED-202512051253481520-VSMWB",
+  "file_name": "GB-MHRA-MED-202512051253481520-VSMWB.json",
+  "chunk_id": "000aa84b-2546-5841-b87e-8fc5c60546b2",
+  "chunk_index": 0,
+  "source_id": 2,
+  "source_system": "mhra",
+  "source_file": "Phase 1\\mhra_output\\GB-MHRA-MED-202512051253481520-VSMWB.json",
+  "section_name": "laboratory test",
+  "chunk_text": "Section: laboratory test. Reaction assessed: Anaphylaxis",
+  "char_count": 56
+}
