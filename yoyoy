@@ -14,3 +14,25 @@ struture of vd:{
   "chunk_text": "Section: laboratory test. Reaction assessed: Anaphylaxis",
   "char_count": 56
 }
+
+
+
+#Code for python file to extract data from qdrant to csv file
+import pandas as pd
+from qdrant_client import QdrantClient
+
+client = QdrantClient(url="https://60cc8791-abe9-4701-a6e0-47673cfcb6a8.eu-west-2-0.aws.cloud.qdrant.io:6333", api_key="input_api_keys")
+
+# Scroll through all points
+points, _ = client.scroll(collection_name="pv-phase2-chunks", with_payload=True, limit=100)
+
+# Flatten the data into a list of dictionaries
+data = []
+for p in points:
+    row = {"id": p.id}
+    row.update(p.payload) # Adds your metadata as columns
+    data.append(row)
+
+# Save to Excel/CSV
+df = pd.DataFrame(data)
+df.to_csv("my_vector_data.csv", index=False)
