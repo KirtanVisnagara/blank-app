@@ -36,3 +36,22 @@ for p in points:
 # Save to Excel/CSV
 df = pd.DataFrame(data)
 df.to_csv("my_vector_data.csv", index=False)
+
+
+
+
+
+#PAYLOAD scheme
+{
+  "doc_id": 49,
+  "document_id": "GB-AUROBINDO-AUR-APL-2018-007844",
+  "file_name": "GB-AUROBINDO-AUR-APL-2018-007844.json",
+  "chunk_id": "0006b468-3e34-5b49-ba4e-2fe321585e6f",
+  "chunk_index": 2,
+  "source_id": 2,
+  "source_system": "mhra",
+  "source_file": "Phase 1\\mhra_output\\GB-AUROBINDO-AUR-APL-2018-007844.json",
+  "section_name": "Summary",
+  "chunk_text": "not provided), eosinophils 0.03 10^9/L (reference range not provided. On 18-Dec-2017, neutrophil count 1.7 10^9/L and white blood cell count 2 10^9/L.The action taken with Clozaril (clozapine) was withdrawn on 2019. The action taken haloperidol and aripiprazole was unknown.The patient's medical history included schizophrenia, and past drug included: risperidone, olanzapine, and zuclopenthixol for schizophrenia NOS and were ineffective (drug ineffective). The relevant concomitant medications were not provided.Reporter's assessment: The reporter assessed the events \"mental health has deteriorated and not eating or drinking/not mentally well,\" \"white blood cell count was 3.3 and 3.10 x 10E9/L/Leucopenia,\" and \"neutrophil count was 1.16 and 1.30 x 10E9/L/neutropenia\" as serious (medically significant), \"patient still refusing bloods,\" \"eosinophil count was 0.01 x10E9/L,\" \"patient has not been eating for last two weeks,\" \"patient has not physically or mentally well,\" and \"tried on different antipsychotics but remained quite psychotic\" (lack of drug effect) as non-serious. The causality for the event tried on different antipsychotics but remained quite psychotic\" (lack of drug effect) was provided as related with aripiprazole and not related with Clozaril (clozapine), however for all other events the causality was provided as related with Clozaril (clozapine) and aripiprazole. The causality for the all events was not provided with haloperidol.",
+  "char_count": 1461
+}
