@@ -1,0 +1,421 @@
+{
+  "General and reporter": [
+    {
+      "Type of Messages in Batch": "ICHICSR"
+    },
+    {
+      "Batch Number": "Not available"
+    },
+    {
+      "Sender’s (Case) Safety Report Unique Identifier": "NO-NOMAADVRE-RELISSO-2024-00185"
+    },
+    {
+      "Date of Creation": "24/11/2024 13:29:29"
+    },
+    {
+      "Type of Report": "Spontaneous"
+    },
+    {
+      "Date Report Was First Received from Source": "16/10/2024"
+    },
+    {
+      "Date of Most Recent Information for this Report": "16/10/2024"
+    },
+    {
+      "Are Additional Documents Available?": "Yes"
+    },
+    {
+      "Does This Case Fulfil the Local Criteria for an Expedited Report?": "Not available"
+    },
+    {
+      "Worldwide Unique Case Identification Number": "NO-NOMAADVRE-RELISSO-2024-00185"
+    },
+    {
+      "First Sender of this Case": "Regulator"
+    },
+    {
+      "Other Case Identifiers in Previous Transmissions": "<no information>"
+    },
+    {
+      "Report Nullification / Amendment": "Not available"
+    },
+    {
+      "Reason for Nullification / Amendment": "Not available"
+    },
+    {
+      "Sender Type": "Regulatory authority"
+    },
+    {
+      "Sender’s Organisation": "NOMAADVRE"
+    },
+    {
+      "Sender’s Department": "Not available"
+    },
+    {
+      "Sender’s Title": "Not available"
+    },
+    {
+      "Sender’s Given Name": "Not available"
+    },
+    {
+      "Sender’s Middle Name": "Not available"
+    },
+    {
+      "Sender’s Family Name": "Not available"
+    },
+    {
+      "Sender’s Street Address": "Not available"
+    },
+    {
+      "Sender’s City": "Not available"
+    },
+    {
+      "Sender’s State or Province": "Not available"
+    },
+    {
+      "Sender’s Postcode": "Not available"
+    },
+    {
+      "Sender’s Country Code": "Not available"
+    },
+    {
+      "Sender’s Telephone": "Not available"
+    },
+    {
+      "Sender’s Fax": "Not available"
+    },
+    {
+      "Sender’s Email Address": "Not available"
+    },
+    {
+      "Reporter (1/1)": ""
+    },
+    {
+      "Reporter’s Title": "Not available"
+    },
+    {
+      "Reporter’s Given Name": "Not available"
+    },
+    {
+      "Reporter’s Middle Name": "Not available"
+    },
+    {
+      "Reporter’s Family Name": "Not available"
+    },
+    {
+      "Reporter’s Organisation": "Not available"
+    },
+    {
+      "Reporter’s Department": "Not available"
+    },
+    {
+      "Reporter’s Street Address": "Not available"
+    },
+    {
+      "Reporter’s City": "Not available"
+    },
+    {
+      "Reporter’s State or Province": "Not available"
+    },
+    {
+      "Reporter’s Postcode": "Not available"
+    },
+    {
+      "Reporter’s Telephone": "Not available"
+    },
+    {
+      "Reporter’s Country Code": "NO"
+    },
+    {
+      "Qualification": "Other health professional"
+    },
+    {
+      "Primary Source for Regulatory Purposes": "Yes"
+    }
+  ],
+  "patient_tab": [
+    {
+      "Patient (name or initials)": "Not available"
+    },
+    {
+      "Patient Medical Record Number(s) and the Source(s) of the Record Number (GP Medical Record Number)": "Not available"
+    },
+    {
+      "Patient Medical Record Number(s) and the Source(s) of the Record Number (Specialist Record Number)": "Not available"
+    },
+    {
+      "Patient Medical Record Number(s) and the Source(s) of the Record Number (Hospital Record Number)": "Not available"
+    },
+    {
+      "Patient Medical Record Number(s) and the Source(s) of the Record Number (Investigation Number)": "Not available"
+    },
+    {
+      "Date of Birth": "Not available"
+    },
+    {
+      "Age at Time of Onset of Reaction / Event": "68 years"
+    },
+    {
+      "Gestation Period When Reaction / Event Was Observed in the Foetus": "Not available"
+    },
+    {
+      "Patient Age Group (as per reporter)": "Not available"
+    },
+    {
+      "Body Weight (kg)": "Not available"
+    },
+    {
+      "Height (cm)": "Not available"
+    },
+    {
+      "Sex": "Female"
+    },
+    {
+      "Last Menstrual Period Date": "Not available"
+    },
+    {
+      "Relevant Medical History and Concurrent Conditions (not including reaction / event)": "The patient has never before been administered contrast agents."
+    },
+    {
+      "Concomitant Therapies": "Not available"
+    }
+  ],
+  "Reaction_tab": [
+    {
+      "Reaction / Event (1/1)": ""
+    },
+    {
+      "Reaction / Event as Reported by the Primary Source in Native Language": "Fikk blemme på overleppen, hoven underleppe og blemme i høyre armhule 5-10 minutter etter injeksjon av kontrast. Følte seg litt svimmel, men hele tiden oppegående og bevisst. Behandlet med Cetirizin 10 mg og reaksjonen avtok i løpet av 1 time."
+    },
+    {
+      "Reaction / Event as Reported by the Primary Source Language": "nor"
+    },
+    {
+      "Reaction / Event as Reported by the Primary Source for Translation": "CONTRAST MEDIA REACTION"
+    },
+    {
+      "MedDRA Version for Reaction / Event": "27.1"
+    },
+    {
+      "Reaction / Event (MedDRA code)": "Contrast media reaction"
+    },
+    {
+      "Term Highlighted by the Reporter": "No, not highlighted by the reporter, NOT serious"
+    },
+    {
+      "Results in Death": "<no information>"
+    },
+    {
+      "Life Threatening": "<no information>"
+    },
+    {
+      "Caused / Prolonged Hospitalisation": "<no information>"
+    },
+    {
+      "Disabling / Incapacitating": "<no information>"
+    },
+    {
+      "Congenital Anomaly / Birth Defect": "<no information>"
+    },
+    {
+      "Other Medically Important Condition": "<no information>"
+    },
+    {
+      "Date of Start of Reaction / Event": "22/08/2024"
+    },
+    {
+      "Date of End of Reaction / Event": "22/08/2024"
+    },
+    {
+      "Duration of Reaction / Event": "1 days"
+    },
+    {
+      "Outcome of Reaction / Event at the Time of Last Observation": "not recovered/not resolved"
+    },
+    {
+      "Medical Confirmation by Healthcare Professional": "Not available"
+    },
+    {
+      "Identification of the Country Where the Reaction / Event Occurred": "Not available"
+    }
+  ],
+  "Products_tab": [
+    {
+      "Drug (1/1)": ""
+    },
+    {
+      "Characterisation of Drug Role": "Suspect"
+    },
+    {
+      "Medicinal Product Name as Reported by the Primary Source": "Omnipaque [IOHEXOL]"
+    },
+    {
+      "Invented name part": "Not available"
+    },
+    {
+      "Scientific name part": "Not available"
+    },
+    {
+      "Trademark name part": "Not available"
+    },
+    {
+      "Strength name part": "Not available"
+    },
+    {
+      "Form name part": "Not available"
+    },
+    {
+      "Container name part": "Not available"
+    },
+    {
+      "Device name part": "Not available"
+    },
+    {
+      "Intended name part": "Not available"
+    },
+    {
+      "Identification of the Country Where the Drug Was Obtained": "Not available"
+    },
+    {
+      "Investigational Product Blinded": "Not available"
+    },
+    {
+      "Authorisation / Application Number": "Not available"
+    },
+    {
+      "Country of Authorisation / Application": "Not available"
+    },
+    {
+      "Name of Holder / Applicant": "Not available"
+    },
+    {
+      "Cumulative Dose to First Reaction": "Not available"
+    },
+    {
+      "Gestation Period at time of Exposure": "Not available"
+    },
+    {
+      "Action(s) taken with Drug": "Not applicable"
+    },
+    {
+      "Additional information on Drug (free text)": "Not available"
+    },
+    {
+      "Additional information on Drug (coded)": "Not available"
+    },
+    {
+      "Indication for Use in Case (1/1)": ""
+    },
+    {
+      "Indication as Reported by the Primary Source": "CT SCAN"
+    },
+    {
+      "MedDRA Version for Indication": "27.1"
+    },
+    {
+      "Indication (MedDRA code)": "CT scan"
+    },
+    {
+      "Substance/Specified Substance Identifier and Strength (1/1)": ""
+    },
+    {
+      "Substance / Specified Substance Name": "Iohexol"
+    },
+    {
+      "Strength": "350 mg/mL"
+    },
+    {
+      "Dosage and Relevant Information (1/1)": ""
+    },
+    {
+      "Dose": "105 mL"
+    },
+    {
+      "Number of Units in the Interval": "Not available"
+    },
+    {
+      "Definition of the Time Interval Unit": "total"
+    },
+    {
+      "Date and Time of Start of Drug": "22/08/2024"
+    },
+    {
+      "Date and Time of Last Administration": "22/08/2024"
+    },
+    {
+      "Duration of Drug Administration": "1 days"
+    },
+    {
+      "Batch / Lot Number": "<unknown>"
+    },
+    {
+      "Dosage Text": "Not available"
+    },
+    {
+      "Pharmaceutical Dose Form (free text)": "Not available"
+    },
+    {
+      "Pharmaceutical Dose Form TermID": "Solution for injection (PDF)"
+    },
+    {
+      "Route of Administration (free text)": "Intravenous"
+    },
+    {
+      "Route of Administration TermID": "Not available"
+    },
+    {
+      "Parent Route of Administration (free text)": "Not available"
+    },
+    {
+      "Parent Route of Administration TermID": "Not available"
+    },
+    {
+      "Drug-reaction(s) / Event(s) Matrix (1/1)": ""
+    },
+    {
+      "Reaction(s) / Event(s) Assessed": "Contrast media reaction"
+    },
+    {
+      "Time Interval between Beginning of Drug Administration and Start of Reaction / Event": "5 minutes"
+    },
+    {
+      "Time Interval between Last Dose of Drug and Start of Reaction / Event": "5 minutes"
+    },
+    {
+      "Did Reaction Recur on Re-administration?": "Not available"
+    },
+    {
+      "Assessment of Relatedness of Drug to Reaction(s)/Event(s) (1/1)": ""
+    },
+    {
+      "Source of Assessment": "Regional Pharmacovigilance Center"
+    },
+    {
+      "Method of Assessment": "Not available"
+    },
+    {
+      "Result of Assessment": "Probable"
+    },
+    {
+      "EU Source of Assessment": "Not available"
+    },
+    {
+      "EU Method of Assessment": "Not available"
+    },
+    {
+      "EU Result of Assessment": "Not available"
+    }
+  ],
+  "Lab test": "Not available",
+  "summary": [
+    {
+      "Case Narrative Including Clinical Course, Therapeutic Measures, Outcome and Additional Relevant Information": ""
+    },
+    {
+      "Reporter’s Comments": "Not available"
+    },
+    {
+      "Sender’s comments": "Pasienten fikk Omnipaque (joheksol) i forbindelse med en CT-undersøkelse og utviklet blemme på overleppen, hoven underleppe og blemme i høyre armhule 5-10 minutter etter injeksjonen. Hun følte seg litt svimmel, men var hele tiden oppegående og bevisst. Pasienten ble behandlet med Cetirizin 10 mg og reaksjonen avtok i løpet av 1 time. Pasientens reaksjoner er kjente bivirkninger ved behandling med Omnipaque og kan være symptomer på en overfølsomhetsreaksjon (1). Det er tidsmessig sammenheng mellom legemiddelbruk og bivirkninger, og vi har vurdert det som sannsynlig årsakssammenheng mellom pasientens reaksjoner og behandling med Omnipaque. Meldingen er klassifisert som alvorlig etter gjeldende kriterier. Referanse 1. Direktoratet for medisinske produkter (DMP). Preparatomtale (SPC) Omnipaque. http://www.legemiddelsok.no/ (Sist oppdatert: 8. mars 2024). Denne meldingen er overført fra sykehusets system for avviksbehandling (forbedringssystemet Achilles) til RELIS Sør-Øst fordi en legemiddelbivirkning inngikk i hendelsen. Vår årsaksvurdering og tilbakemelding vil bli sendt melder og saksbehandler elektronisk som vedlegg i avviksmeldingen. Vi presiserer at alle som håndterer bivirkningsmeldinger har taushetsplikt om personlige forhold i meldingene. Dette gjelder opplysninger om både pasient og melder. Fokus for spontanrapporteringen er å innhente mest mulig informasjon om legemidler og bivirkninger. Skyldes bivirkningen medisinsk feilbehandling gjelder fortsatt taushetsplikten. Direktoratet for medisinske produkter (tidligere Legemiddelverket) og RELIS er ingen tilsynsmyndighet overfor helsepersonell, og det utveksles ikke informasjon med Statsforvalterne (fylkeslegene) eller Helsetilsynet. Kvalitetssvikt i helsetjenesten ivaretas via andre meldesystemer."
+    }
+  ]
+}
